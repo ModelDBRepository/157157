@@ -6,7 +6,7 @@
 //Results reported in Saudargiene A, Cobb S, Graham BP
 //"A computational study on plasticity during theta cycles at Schaffer 
 //collateral synapses on CA1 pyramidal cells in the hippocampus",
-//Hippocampus. 2015;25(2):208–218. 
+//Hippocampus. 2015;25(2):208â€“218. 
 
 
 {load_file("nrngui.hoc")}  
