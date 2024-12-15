@@ -11,6 +11,7 @@ objectvar seclist, ran
 proc init() {
     seclist = $o1  //SectionList
     ran = new Random($2) //randomseed
+    ran.Random123()
     total_length = 0
     forsec seclist { total_length = total_length + L } //length
 //print "Random Location Total Length"

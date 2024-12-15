@@ -11,6 +11,7 @@ proc init() {
       //print stream
 
 	r = new Random()
+	r.Random123()
 	start()
 }
 func start() {
